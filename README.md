@@ -1,1 +1,1 @@
-# word-master-project
+# word-master-game
